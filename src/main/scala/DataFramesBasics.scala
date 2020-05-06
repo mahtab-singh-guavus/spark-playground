@@ -1,4 +1,3 @@
-package part2dataframes
 
 import org.apache.spark.sql.{Row, SparkSession}
 import org.apache.spark.sql.types._
